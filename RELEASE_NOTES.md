@@ -1,3 +1,7 @@
+#### 0.42.0.1-rc.
+
+* [Fabulous.XamarinForms] [Extensions] Update Fabulous.XamarinForms.SkiaSharp extension to use SkiaSharp 1.68.1-rc.147 for SKGLView support.
+
 #### 0.42.0
 
 * [Fabulous.XamarinForms] Added support for Xamarin.Forms 4.2 (https://github.com/fsprojects/Fabulous/pull/559)

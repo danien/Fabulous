@@ -21,6 +21,8 @@
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
     <PackageReference Include="FSharp.Core" Version="FSharpCorePkgVersion" />
+    <PackageReference Update="FSharp.Core" Version="FSharpCorePkgVersion" />
+    <!-- workaround for VSMac bug https://github.com/mono/monodevelop/pull/5137 -->
     <PackageReference Include="Xamarin.Forms.Platform.WPF" Version="XamarinFormsSdk" />
     <ProjectReference Include="../NewApp/NewApp.fsproj" />
   </ItemGroup>
