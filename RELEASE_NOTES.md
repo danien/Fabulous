@@ -7,6 +7,10 @@ Please read the migration guide to know how to update to this new version (https
 * [Fabulous.XamarinForms] Changed the behavior of event handlers. Events will no longer be triggered by Fabulous.XamarinForms when it's incrementally updating the properties (e.g. changing Text triggering TextChanged). This was changed to prevent unnecessary calls to the update function and in some cases an infinite loop on Android
 * [Fabulous.CodeGen] Introduced Fabulous.CodeGen, a new library, to help build your own library for your favorite framework using the MVU architecture with Fabulous. More documentation to come.
 
+#### 0.50.0.1-rc-skiasharp-1.68.1
+
+* [Fabulous.XamarinForms] [Extensions] Update Fabulous.XamarinForms.SkiaSharp extension to use SkiaSharp 1.68.1-rc.153 for SKGLView support.
+
 #### 0.50.0-alpha.7
 
 This is an alpha release of an ongoing work with multiple breaking changes that might not be in the final version.  

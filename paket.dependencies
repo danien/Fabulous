@@ -32,8 +32,8 @@ group neutral
   nuget FSharp.Core 4.6.2
   nuget Xamarin.Forms 4.3.0.908675
   nuget Xamarin.Forms.Maps 4.3.0.908675
-  nuget SkiaSharp
-  nuget SkiaSharp.Views.Forms
+  nuget SkiaSharp 1.68.1-rc.153
+  nuget SkiaSharp.Views.Forms 1.68.1-rc.153
   nuget OxyPlot.Xamarin.Forms 1.0.0
   nuget Newtonsoft.Json 11.0.2
 
