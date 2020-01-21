@@ -1,12 +1,10 @@
 <Project>
   <!-- NuGet Specs -->
   <PropertyGroup>
-    <Version>0.51.0</Version>
+    <Version>0.51.0.1</Version>
     <Authors>Fabulous Contributors</Authors>
-    <PackageVersion>0.51.0</PackageVersion>
-    <PackageReleaseNotes>[Fabulous.XamarinForms] Added a `scrollTo` property to ListView, ListViewGrouped, Carousel and CollectionView (https://github.com/fsprojects/Fabulous/pull/616)
-[Fabulous.XamarinForms] Fixed 2 issues with Grid ColumnDefinitions/RowDefinitions (https://github.com/fsprojects/Fabulous/pull/627)
-[Fabulous.XamarinForms] Fixed an issue with cell recycling in ListView/ListViewGrouped (https://github.com/fsprojects/Fabulous/pull/617)</PackageReleaseNotes>
+    <PackageVersion>0.51.0.1-rc</PackageVersion>
+    <PackageReleaseNotes>[Fabulous.XamarinForms] [Extensions] Added a Fabulous.XamarinForms.SkiaSharp extension to create an SKGLView.</PackageReleaseNotes>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <PackageProjectUrl>https://github.com/fsprojects/Fabulous</PackageProjectUrl>

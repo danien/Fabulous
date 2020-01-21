@@ -1,3 +1,7 @@
+#### 0.51.0.1-rc-skglview
+
+* [Fabulous.XamarinForms] [Extensions] Added a Fabulous.XamarinForms.SkiaSharp extension to create an SKGLView.
+
 #### 0.51.0
 
 * [Fabulous.XamarinForms] Added a `scrollTo` property to ListView, ListViewGrouped, Carousel and CollectionView (https://github.com/fsprojects/Fabulous/pull/616)
